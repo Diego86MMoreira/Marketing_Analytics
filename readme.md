@@ -9,7 +9,7 @@
 Entender marketing analytics é fundamental para compreender o comportamento dos consumidores, suas preferências e hábitos de compra, 
 permitindo que as empresas criem campanhas de marketing mais eficazes e personalizadas.
 
-MAS O QUE É MARKETING ANALYTICS?
+### Mas o que é MARKETING ANALYTICS?
 Marketing Analytics é o processo de coletar, medir, analisar e interpretar dados relacionados às atividades de marketing de uma empresa, 
 com o objetivo de entender melhor o desempenho das campanhas e estratégias de marketing, bem como identificar oportunidades de melhoria.
 Essa estratégia envolve a coleta de dados de diversas fontes, como mídias sociais, e-mails, site, aplicativos, entre outros, e 
@@ -18,7 +18,7 @@ quais canais de marketing são mais eficazes para atingir determinado público.
 Com esses insights, as empresas podem tomar decisões mais informadas e estratégicas em relação ao seu marketing, 
 ajustando suas estratégias e campanhas para obter melhores resultados e alcançar seus objetivos de negócios.
 
-COMO UTILIZAR AS FERRAMENTAS DE MARKETING ANALYTICS?
+### Como utilizar as Ferramnetas de  MARKETING ANALYTICS?
 Para utilizar as ferramentas de marketing analytics de maneira efetiva, é preciso entender que essas ferramentas são apenas uma parte do processo. 
 É necessário definir claramente os objetivos de negócios e de marketing, para que a coleta e análise de dados possam 
 ser direcionadas para as áreas mais relevantes.
